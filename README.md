@@ -3,5 +3,13 @@
 # raku Jupyter::Hub
 ...
 
+Combines Jupyter, raku, HTTPs with docker-compose
+viz. https://leangaurav.medium.com/quick-jupyterhub-setup-docker-nginx-https-letsencrypt-aws-cloud-57d1afa5c253
+
+```
+git clone https://github.com/leangaurav/jupyterhub_docker.git
+cd jupyterhub_docker
+```
+
 ### Copyright
 copyright(c) 2023 Henley Cloud Consulting Ltd.
